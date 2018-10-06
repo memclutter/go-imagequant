@@ -19,7 +19,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/ultimate-guitar/go-imagequant"
+	"github.com/memclutter/go-imagequant"
 	"image/png"
 	"io/ioutil"
 	"os"
